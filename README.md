@@ -2,24 +2,24 @@
 
 📌 Aqui nesse projeto, pude aprender e colocar em prática as seguintes atapas abaixo:
 
-    • Estruturando o HTML;
+    • Structuring the HTML;
 
-    • Variáveis e cores HSL no CSS;
+    • Variables and colors HSL no CSS;
 
-    • Estilzando o header;
+    • Styling the header;
 
-    • Definindo largura máxima e alinhando o conteúdo;
+    • Setting maximum width and aligning content;
 
-    • Encaixando a imagem e sobrepondo o texto;
+    • Embedding the image and overlaying the text;
 
-    • Finalizando os cards;
+    • Finalizing the cards;
 
-    • Transições e transformações;
+    • Transitions and transformations;
 
-    • Animações com CSS;
+    • Animations with CSS;
 
-    • Versão Desktop com CSS Grid;
+    • Desktop version with CSS Grid;
 
-    • Adicionando filtros em imagens com CSS;
+    • Adding filters to images with CSS;
 
-    • Ajustando textos com CSS Clamp.
+    • Adjusting texts with CSS Clamp.
